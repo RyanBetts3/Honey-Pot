@@ -1,0 +1,3 @@
+2024-05-07 17:29:54 [INFO] Honeypot is successfully running on port 22
+2024-05-07 17:30:06 [INFO] Connection made from 127.0.0.1
+2024-05-07 17:30:06 [INFO] Received username: b'SSH-2.0-PuTTY_Release_0.76'
